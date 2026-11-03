@@ -5,22 +5,27 @@
 
 ## 🛠 Мой стек технологий:
 
-**Языки и базы данных:**
+**Языки и Базы данных:**
 *   Python, SQL
 *   PostgreSQL, SQLite, Django ORM, SQLAlchemy
 
-**Фреймворки и библиотеки:**
+**Фреймворки и Библиотеки:**
 *   Django, Django REST Framework (DRF), FastAPI, Flask
-*   Aiogram / Telebot, Requests, BeautifulSoup
-*   Asyncio, Многопоточность (Threading/Multiprocessing)
+*   Aiogram / Telebot, VK API (основы), Requests, BeautifulSoup
+*   Asyncio, Многопоточность (Threading / Multiprocessing)
+*   Celery (Очереди задач), Библиотеки для работы с данными (Pandas / NumPy)
 
 **Инструменты и DevOps:**
 *   Git, GitHub, Docker
-*   Linux (Bash), Nginx (базово, если было), CI/CD (GitHub Actions / GitLab CI)
-*   Pytest, Mock (тестирование)
-*   HTML, CSS (верстка шаблонов)
+*   Linux (Bash), Деплой приложений, CI/CD (GitHub Actions / GitLab CI)
+*   Линтеры (Flake8 / Pylint), Логирование и профилирование
 
-**Среды разработки:**
+**Тестирование и Качество кода:**
+*   Pytest, Mock (написание тестов)
+*   Оптимизация запросов и кэширование
+
+**Фронтенд и Среды разработки:**
+*   HTML, CSS (верстка шаблонов)
 *   PyCharm, Postman
 
 ## 🚀 Мои ключевые проекты (посмотрите ниже 👇):
