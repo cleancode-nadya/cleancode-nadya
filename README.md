@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет! Я Надежда 👋
+### Python-разработчик (Backend / Telegram Bots)
 
-<!--
-**cleancode-nadya/cleancode-nadya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я пишу чистый и понятный код на Python. Специализируюсь на создании Telegram-ботов и разработке веб-приложений на Django. Ищу интересные проекты и открыта к предложениям о работе.
 
-Here are some ideas to get you started:
+## 🛠 Мой стек технологий:
+*   **Языки:** Python
+*   **Фреймворки:** Django
+*   **Базы данных:** PostgreSQL, SQLite
+*   **Библиотеки:** Aiogram / Telebot, Requests, BeautifulSoup (парсинг)
+*   **Инструменты:** Git, PyCharm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Мои ключевые проекты (посмотрите ниже 👇):
+*   **[django_crm](https://github.com/cleancode-nadya/django_crm)** — CRM-система на Django с личным кабинетом и админкой.
+*   **[movie_search_bot](https://github.com/cleancode-nadya/movie_search_bot)** — Telegram-бот для поиска фильмов через API.
+*   **[yandex_disk_sync](https://github.com/cleancode-nadya/yandex_disk_sync)** — Скрипт для синхронизации файлов с Яндекс.Диском.
+
+## 📫 Как со мной связаться:
+*   Telegram: [@SNadezda74](https://t.me/SNadezda74)
+*   Kwork: [Мой профиль на Kwork](https://kwork.ru/user/nadyasikorskaya)
